@@ -56,3 +56,5 @@ theme_colors:
   - yellow
 
 
+
+theme: jekyll-theme-cayman
